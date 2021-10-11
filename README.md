@@ -1,3 +1,3 @@
 # helloworld
 Hello World UI5 App
-Updated frin VSCode
+Updated from VSCode
